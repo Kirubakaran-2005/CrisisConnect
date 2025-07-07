@@ -19,17 +19,18 @@ CrisisConnect is a real-time community support platform designed to connect peop
 - **Authentication & Real-Time Updates:** Firebase
 - **API Design:** REST API
 
-## Screenshots
+# Screenshots
 
-# Login Page
+## Login Page
 ![Login Page](Assets/login.png)
 
-# Home Pages
+## Home Pages
 ![Home Page](Assets/homePage1.png)
+
 ![Home Page](Assets/homePage2.png)
 
-# Request Form
+## Request Form
 ![Request Form](Assets/requestform.png)
 
-# Help Others
-![Help Others](Assets/helpother.png)
+## Help Others
+![Help Others](Assets/helpothers.png)
